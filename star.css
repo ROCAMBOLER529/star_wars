@@ -1,0 +1,54 @@
+.imperio {
+    background-color: rgb(243, 90, 90);
+}
+
+.rebeldes {
+    background-color: rgb(88, 88, 243);
+}
+
+#darthvader {
+    font-size: large;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.soldados {
+    border: dotted;
+    letter-spacing: 5px;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
+
+.droides {
+    text-align: center;
+}
+
+body {
+    background-image: url(space-1164579_1280.webp);
+}
+
+.tipografia {
+    font-family: 'Star Wars', sans-serif;
+}
+
+.blank{
+    color: antiquewhite;
+    font-family: 'Star Wars', sans-serif;
+}
+
+img {
+    max-width: 200px;
+    max-height: auto;
+}
+
+ul {
+    list-style-type: none;
+}
